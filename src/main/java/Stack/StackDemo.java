@@ -10,6 +10,7 @@ public class StackDemo {
         obj.push("Lakshmi");
         obj.push("Nagaraju");
         obj.push(206);
+        obj.push(207);
 
         System.out.println(" Print Stack : "+obj);
         System.out.println(" Top element of stack : "+obj.peek());
