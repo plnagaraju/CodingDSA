@@ -23,3 +23,13 @@ public class StackDemo {
     }
 
 }
+
+       /*
+        Output :
+        Print Stack : [Lakshmi, Nagaraju, 206]
+        Top element of stack : 206
+        Remove top element of stack : 206
+        is empty() : false
+        Print Stack 2 : [Lakshmi, Nagaraju]
+        Print Stack 3 : Java
+        */
