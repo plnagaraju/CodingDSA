@@ -1,7 +1,6 @@
 package src.main.java.Stack;
 
 import java.util.Stack;
-import java.util.*;
 
 public class StackDemo {
 
